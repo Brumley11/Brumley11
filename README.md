@@ -1,2 +1,1 @@
-Add_money_to_cashapp
-$1000
+Add_money_to_cashapp_$1000
